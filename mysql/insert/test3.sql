@@ -1,0 +1,1 @@
+insert into user2(username,password,email) values ('tom','wangzi77','345619243@qq.com');
